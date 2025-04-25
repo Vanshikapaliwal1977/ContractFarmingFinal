@@ -1,6 +1,6 @@
 const Header = () => {
     return (
-      <header className="bg-green-700 text-white py-4">
+      <header className="bg-blue-700 text-white py-4">
         <div className="max-w-7xl mx-auto px-6 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
           
           {/* Logo */}
